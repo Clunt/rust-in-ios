@@ -1,0 +1,7 @@
+.DS_Store
+/target
+/libs
+/rust.xcframework
+xcuserdata/
+/bundle.zip
+/bundle.sha256

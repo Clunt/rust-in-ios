@@ -1,0 +1,4 @@
+module Rust {
+  header "rust.h"
+  export *
+}
